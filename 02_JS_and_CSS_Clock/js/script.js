@@ -27,7 +27,7 @@ const handleFlicker = (hand, degrees) => {
   } else {
     hand.style.transition = 'all 0.2s';
   }
-}
+};
 
 setInterval(setDate, 1000);
 setDate();
