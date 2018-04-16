@@ -1,6 +1,9 @@
 {
   "name": "javascript30",
   "version": "0.0.1",
+  "scripts": {
+    "lint": "eslint ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tlkamp/javascript30.git"
