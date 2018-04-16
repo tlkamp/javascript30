@@ -2,6 +2,6 @@ language: node_js
 node_js:
   - "6"
 install:
-  - npm install eslint --no-save
+  - npm install eslint eslint-config-google --no-save
 script:
   - npm run lint
