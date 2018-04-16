@@ -2,7 +2,7 @@
   "name": "javascript30",
   "version": "0.0.1",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint `pwd`"
   },
   "repository": {
     "type": "git",
